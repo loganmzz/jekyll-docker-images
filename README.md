@@ -25,5 +25,5 @@ Tags don't match with component version. Instead here is the version matrix:
 | Image tag | Ruby   | Bundler | Node.js |
 | --------- | ------ | ------- | ------- |
 | latest    | 2.5.0  | 1.16.1  | 9.5.0   |
-
+| 1.0.0     | 2.5.0  | 1.16.1  | 9.5.0   |
 
